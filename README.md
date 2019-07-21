@@ -2,7 +2,6 @@
 This module allows you to convert binary, hexadecimal, decimal and octal (base16, base2, base10 and base8) numbers between one another.
 
 The functions setup within this module are as follows:
-
 #### Conversion from binary
 ```python
 binHex(number)
