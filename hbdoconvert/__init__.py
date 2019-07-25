@@ -1,3 +1,5 @@
+# Main code file
+
 # Convert from binary
 def binHex(number): # Binary to Hexadecimal
     if len(hex(int(number, 2))[2:]) < 2:
